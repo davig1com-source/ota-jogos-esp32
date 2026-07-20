@@ -1,8 +1,8 @@
 {
   "passa_repassa_biblico": {
-    "versao": "1.0.0",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.0.0/firmware.bin",
-    "sha256": "3851d1b82a810cdda2c3a13af1dbeddc71ca2c64aba99c0c840778c9a19d702e",
-    "assinatura": "GFA7pzBHlv4SGidJmRC5XeNNwqyufWMCQ5oCNoAvTK+5WCOR5vbfMumZX/aRmaypJZ8UMob0A01f80RzG+hs74mkV1TNQIO+GygpFyLu/CNkJB9LJF5kI6y0/+skw5gpx5vKqFmZK3iWFhefDIz0e+yaaB0JxRWOs3zfiuchQAF7QXxRRVh01t/vDoRxcYgIGWe4Ka6oDjMjjk9PdauZ1vLRKW4A1VYiSfE7EVoVt7IeBS5AN/bL+RUU4kqgYDQnazDd9cebQCZgogIQxnxRwtZ31n9N/jT/VfnD5MOToDlFwu7pTfUmNn5/soWDEo/48255ht+2ED3IRLIsTpMxQw=="
+    "versao": "1.1.0",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.1.0/firmware.bin",
+    "sha256": "4535816af16c5d2b152704acf3e20189762bb94590162cc800d978d0aa7e3976",
+    "assinatura": "mT5p7BqpYe1V7ENNFU+a4hmjssYHJPE9LCMciYj+iXBEzslWCbVeaY9/rEvFTCrfA1M800Zv4YPr3cLCXKBeLqOGDAUWM2O3qPo8WyTDYsMxa778o1RKLj6ZXgWAimMB6b7OZjlCXZ0WPBhxSo2F/GUaghGEODNaeE2efxWFZ0lXe0dqwJHWCvQBU9LDV9xN9cDyyLm664aoEC8F7mFtG1muW5pOUKASHb1EnOHgj+W09tFs/26wOLOBl7+bFfSKwUxA2oSWcziSitCXmXMiEVxeKzymxMI3FQ5fg9BPhad5K0RQKYLmDFkQVeiSfDDuu73McGi0x3MH8ozWmFWtYw=="
   }
 }
