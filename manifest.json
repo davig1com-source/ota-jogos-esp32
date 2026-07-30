@@ -1,14 +1,14 @@
 {
   "passa_repassa_biblico": {
-    "versao": "1.2.0",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/Passaourepassa/firmware.bin",
-    "sha256": "b52b770a6473582bbfafc3cea6baae550ba59ef3191e1c7de96879aa4918f082",
-    "assinatura": "DXaoM/JA1OdEo8gZdJF8wsQ0VtlKs4nlV1nyZzpqkpMcMgcigQ4jEmtYRVyGEMZTkMpOf9cr1AE84HvezBHE9pIlKbG4IudExxldOM4yZzJnhtsTlIrsVg30ZBaQPVhaiSaDoIS8pL45YEmwwdqJg4DYF/YMqQmKIBM72XbYK5+cn1agy+cVc7pGEoMCMO3KjoWzVbbGECpTAkmPdeQjV99FL6jgq8aOIzOfJ22y8K/0jaPkpg/AlLjC/Zn+a1du856MRAI/id4jR1A/pm7AzjtjY14uNU8ISBoagAc8zG3L1UZL1YxEm4GNuEXukKsZrCtqzjIpVP5AUdoLt4VGJQ=="
+    "versao": "1.2.1",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.1/passa_repassa_biblico.ino.bin",
+    "sha256": "e581c06a00904909dda901be5363f2ad1c5323f898f55f497a54e46de8bebacb",
+    "assinatura": "OhNi83aPFdVsusqC8NliIX3CBY6pwiRvuWQisi45DOW8dEOsxWSO5x8lFD285Howo89ggVBhyuJ8QOw1SBvTtmfrodceQ7Wd/0UEkB57IYZJo4HtbKSmndHnP7ORl4gmUNZFG6rGhYGOP6IHB3JAuXTJDXyiWdkavAd5VQh36QygTCxwNXeJWzbcJYGsIy5LpJKbfRUfbtk7MpVAj277WhTtfxG8o2ho8fF9doEOCakB3mnogCEJcf7a4q6Wld7NPPFTJ2R/VvPH0eTxG8XGBQujRQyNuoLS9xRqdRA6XGhTva7QpPRWuK0SkUXvbsvdj5MN6jfhaKEBVaHtjTHECg=="
   },
   "passa_repassa_completo": {
-    "versao": "1.2.0",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/Passaourepassa/firmware.bin",
-    "sha256": "b52b770a6473582bbfafc3cea6baae550ba59ef3191e1c7de96879aa4918f082",
-    "assinatura": "DXaoM/JA1OdEo8gZdJF8wsQ0VtlKs4nlV1nyZzpqkpMcMgcigQ4jEmtYRVyGEMZTkMpOf9cr1AE84HvezBHE9pIlKbG4IudExxldOM4yZzJnhtsTlIrsVg30ZBaQPVhaiSaDoIS8pL45YEmwwdqJg4DYF/YMqQmKIBM72XbYK5+cn1agy+cVc7pGEoMCMO3KjoWzVbbGECpTAkmPdeQjV99FL6jgq8aOIzOfJ22y8K/0jaPkpg/AlLjC/Zn+a1du856MRAI/id4jR1A/pm7AzjtjY14uNU8ISBoagAc8zG3L1UZL1YxEm4GNuEXukKsZrCtqzjIpVP5AUdoLt4VGJQ=="
+    "versao": "1.2.1",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.1/passa_repassa_biblico.ino.bin",
+    "sha256": "e581c06a00904909dda901be5363f2ad1c5323f898f55f497a54e46de8bebacb",
+    "assinatura": "OhNi83aPFdVsusqC8NliIX3CBY6pwiRvuWQisi45DOW8dEOsxWSO5x8lFD285Howo89ggVBhyuJ8QOw1SBvTtmfrodceQ7Wd/0UEkB57IYZJo4HtbKSmndHnP7ORl4gmUNZFG6rGhYGOP6IHB3JAuXTJDXyiWdkavAd5VQh36QygTCxwNXeJWzbcJYGsIy5LpJKbfRUfbtk7MpVAj277WhTtfxG8o2ho8fF9doEOCakB3mnogCEJcf7a4q6Wld7NPPFTJ2R/VvPH0eTxG8XGBQujRQyNuoLS9xRqdRA6XGhTva7QpPRWuK0SkUXvbsvdj5MN6jfhaKEBVaHtjTHECg=="
   }
 }
