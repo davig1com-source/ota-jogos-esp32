@@ -1,7 +1,7 @@
 {
   "passa_repassa_biblico": {
     "versao": "1.2.0",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.0/firmware.bin",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/Passaourepassa/firmware.bin",
     "sha256": "b52b770a6473582bbfafc3cea6baae550ba59ef3191e1c7de96879aa4918f082",
     "assinatura": "DXaoM/JA1OdEo8gZdJF8wsQ0VtlKs4nlV1nyZzpqkpMcMgcigQ4jEmtYRVyGEMZTkMpOf9cr1AE84HvezBHE9pIlKbG4IudExxldOM4yZzJnhtsTlIrsVg30ZBaQPVhaiSaDoIS8pL45YEmwwdqJg4DYF/YMqQmKIBM72XbYK5+cn1agy+cVc7pGEoMCMO3KjoWzVbbGECpTAkmPdeQjV99FL6jgq8aOIzOfJ22y8K/0jaPkpg/AlLjC/Zn+a1du856MRAI/id4jR1A/pm7AzjtjY14uNU8ISBoagAc8zG3L1UZL1YxEm4GNuEXukKsZrCtqzjIpVP5AUdoLt4VGJQ=="
   }
