@@ -1,14 +1,14 @@
 {
   "passa_repassa_biblico": {
-    "versao": "1.2.1",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.1/passa_repassa_biblico.ino.bin",
-    "sha256": "e581c06a00904909dda901be5363f2ad1c5323f898f55f497a54e46de8bebacb",
-    "assinatura": "OhNi83aPFdVsusqC8NliIX3CBY6pwiRvuWQisi45DOW8dEOsxWSO5x8lFD285Howo89ggVBhyuJ8QOw1SBvTtmfrodceQ7Wd/0UEkB57IYZJo4HtbKSmndHnP7ORl4gmUNZFG6rGhYGOP6IHB3JAuXTJDXyiWdkavAd5VQh36QygTCxwNXeJWzbcJYGsIy5LpJKbfRUfbtk7MpVAj277WhTtfxG8o2ho8fF9doEOCakB3mnogCEJcf7a4q6Wld7NPPFTJ2R/VvPH0eTxG8XGBQujRQyNuoLS9xRqdRA6XGhTva7QpPRWuK0SkUXvbsvdj5MN6jfhaKEBVaHtjTHECg=="
+    "versao": "1.2.2",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.2/passa_repassa_biblico.ino.bin",
+    "sha256": "7945833840986edbc9862c5ab5ee5045318814d1d44ed02667cfc27d8f8a14a0",
+    "assinatura": "UBHjC3vchYpAMxYUbRCucrQQtO2CLBTgtkgMoBODfJwu/7iHLqIX45JYl/5oHZS/MeKsLu7oE0wzgAsRgXP3JQb7UqlkkmRB5+ON1pdva+fEy6bDK8yqimZZXVpPj9QctnpRq/jWgpnjsVcwkc2U83RJOb5Mie7LZV8OjpPKNJ/uAdE7+JQEjuMwexSCiTCbvs3ngeaUH947tyROOoSd0McV32LKZs5EhWtN0607+psbsbfPJz2VOJQ2v52dIeKrUSbdPPNaVMUpy4UTfclEbbUsop5RINSGa2Nt8WPrwtCS0/pulu/XNQVQq2MTPZ87qaS9EO4yfTDEf8q7N/JQHw=="
   },
   "passa_repassa_completo": {
-    "versao": "1.2.1",
-    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.1/passa_repassa_biblico.ino.bin",
-    "sha256": "e581c06a00904909dda901be5363f2ad1c5323f898f55f497a54e46de8bebacb",
-    "assinatura": "OhNi83aPFdVsusqC8NliIX3CBY6pwiRvuWQisi45DOW8dEOsxWSO5x8lFD285Howo89ggVBhyuJ8QOw1SBvTtmfrodceQ7Wd/0UEkB57IYZJo4HtbKSmndHnP7ORl4gmUNZFG6rGhYGOP6IHB3JAuXTJDXyiWdkavAd5VQh36QygTCxwNXeJWzbcJYGsIy5LpJKbfRUfbtk7MpVAj277WhTtfxG8o2ho8fF9doEOCakB3mnogCEJcf7a4q6Wld7NPPFTJ2R/VvPH0eTxG8XGBQujRQyNuoLS9xRqdRA6XGhTva7QpPRWuK0SkUXvbsvdj5MN6jfhaKEBVaHtjTHECg=="
+    "versao": "1.2.2",
+    "bin": "https://github.com/davig1com-source/ota-jogos-esp32/releases/download/passa_repassa-v1.2.2/passa_repassa_biblico.ino.bin",
+    "sha256": "7945833840986edbc9862c5ab5ee5045318814d1d44ed02667cfc27d8f8a14a0",
+    "assinatura": "UBHjC3vchYpAMxYUbRCucrQQtO2CLBTgtkgMoBODfJwu/7iHLqIX45JYl/5oHZS/MeKsLu7oE0wzgAsRgXP3JQb7UqlkkmRB5+ON1pdva+fEy6bDK8yqimZZXVpPj9QctnpRq/jWgpnjsVcwkc2U83RJOb5Mie7LZV8OjpPKNJ/uAdE7+JQEjuMwexSCiTCbvs3ngeaUH947tyROOoSd0McV32LKZs5EhWtN0607+psbsbfPJz2VOJQ2v52dIeKrUSbdPPNaVMUpy4UTfclEbbUsop5RINSGa2Nt8WPrwtCS0/pulu/XNQVQq2MTPZ87qaS9EO4yfTDEf8q7N/JQHw=="
   }
 }
